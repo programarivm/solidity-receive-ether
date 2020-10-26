@@ -10,13 +10,14 @@ Learning to build dapps step by step? Just go take a cup of coffee and browse th
     98a2f10 truffle init
     bf7628b npm install @truffle/hdwallet-provider dotenv
     b814c25 .gitignore is added
-    23b4ab7 npm ini
+    23b4ab7 npm init
 
 ### You may also be interested in
 
 - [The Git way to deploy a Solidity smart contract on Ropsten with Truffle](https://github.com/programarivm/solidity-hello-world)
 - [The Git Way for a Node.js App to Interact With a Solidity Smart Contract](https://github.com/programarivm/solidity-interacting-with-nodejs)
 - [The Git Way for a Smart Contract to Receive Ether](https://github.com/programarivm/solidity-receive-ether)
+- [The Git Way for a Node.js App to Get a Smart Contract Balance](https://github.com/programarivm/solidity-contract-balance)
 
 ### Contributions
 
